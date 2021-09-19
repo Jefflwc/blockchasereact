@@ -8,7 +8,7 @@ import pursuerLogo from "./letter_p.png";
 //import getWeb3 from "./getWeb3";
 import "./App.css";
 
-const blockchaseAddress = "0x1Dc8271b1c87aa07Ff33fF08032Bd7d5D9Abc1d3"
+const blockchaseAddress = "0x496116336d4c49BF40CCFCAD9C5f26E5215a4Ebe"
 
 
 
