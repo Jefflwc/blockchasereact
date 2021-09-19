@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blockchasereact/static/css/main.df87a3f9.chunk.css",
+    "main.js": "/blockchasereact/static/js/main.55671c09.chunk.js",
+    "main.js.map": "/blockchasereact/static/js/main.55671c09.chunk.js.map",
+    "runtime-main.js": "/blockchasereact/static/js/runtime-main.a8aada9e.js",
+    "runtime-main.js.map": "/blockchasereact/static/js/runtime-main.a8aada9e.js.map",
+    "static/js/2.2275c2ac.chunk.js": "/blockchasereact/static/js/2.2275c2ac.chunk.js",
+    "static/js/2.2275c2ac.chunk.js.map": "/blockchasereact/static/js/2.2275c2ac.chunk.js.map",
+    "static/js/3.adedb53b.chunk.js": "/blockchasereact/static/js/3.adedb53b.chunk.js",
+    "static/js/3.adedb53b.chunk.js.map": "/blockchasereact/static/js/3.adedb53b.chunk.js.map",
+    "index.html": "/blockchasereact/index.html",
+    "static/css/main.df87a3f9.chunk.css.map": "/blockchasereact/static/css/main.df87a3f9.chunk.css.map",
+    "static/js/2.2275c2ac.chunk.js.LICENSE.txt": "/blockchasereact/static/js/2.2275c2ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8aada9e.js",
+    "static/js/2.2275c2ac.chunk.js",
+    "static/css/main.df87a3f9.chunk.css",
+    "static/js/main.55671c09.chunk.js"
+  ]
+}
