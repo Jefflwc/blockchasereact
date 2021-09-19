@@ -234,13 +234,6 @@ contract Blockchase {
         }
     }
 
-    function biddingtoReveal() internal onlyAfter(biddingEnd){
-        if (stage == 1) {
-            revealEnd = block.timestamp + revealTime;
-            stage = 2;
-        }
-    }
-
     function getStage() public view returns (string memory _stage){
         if (stage==1) {
             return "Bidding stage - Place your bids via submitBid now before bidding time ends. INFO: Stage 1: Bidding --> Stage 2: Reveal --> Internal Stages (Identify winner move and perform move) --> Next Auction";
