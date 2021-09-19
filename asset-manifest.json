@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blockchasereact/static/css/main.df87a3f9.chunk.css",
-    "main.js": "/blockchasereact/static/js/main.55671c09.chunk.js",
-    "main.js.map": "/blockchasereact/static/js/main.55671c09.chunk.js.map",
+    "main.js": "/blockchasereact/static/js/main.e0efe6e2.chunk.js",
+    "main.js.map": "/blockchasereact/static/js/main.e0efe6e2.chunk.js.map",
     "runtime-main.js": "/blockchasereact/static/js/runtime-main.a8aada9e.js",
     "runtime-main.js.map": "/blockchasereact/static/js/runtime-main.a8aada9e.js.map",
     "static/js/2.2275c2ac.chunk.js": "/blockchasereact/static/js/2.2275c2ac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a8aada9e.js",
     "static/js/2.2275c2ac.chunk.js",
     "static/css/main.df87a3f9.chunk.css",
-    "static/js/main.55671c09.chunk.js"
+    "static/js/main.e0efe6e2.chunk.js"
   ]
 }
